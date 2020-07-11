@@ -1,7 +1,5 @@
 # Social-Networking-Site
 
-<img src="https://github.com/lvamsavarthan/Hify/blob/master/preview.png">
-
 
 Just a social app. This app is mostly completed but some bugs would be there.
 **google-services.json file has been deleted for security reasons. Place your google-services.json in /app folder**
