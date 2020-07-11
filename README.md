@@ -5,7 +5,7 @@ Just a social app. This app is mostly completed but some bugs would be there.
 **google-services.json file has been deleted for security reasons. Place your google-services.json in /app folder**
 
 
-## Available feautres
+## Available features
 
 * Registration
   - Registration and logging in using firebase **(stable)**
@@ -22,9 +22,9 @@ Just a social app. This app is mostly completed but some bugs would be there.
   - Send location **(stable)**
 * Posts Feed
   - View posts of your friends **(stable)**
-  - Like,Share,Comment **(stable)**
-* Mischellaneous
-  - Double tap like feature added **(stable)**
+  - Like, Share, Comment **(stable)**
+* Miscellaneous
+  - Double tap like a feature added **(stable)**
   - Error handling Recycler View **(stable)**
 * Discuss
   - Forum **(stable)**
